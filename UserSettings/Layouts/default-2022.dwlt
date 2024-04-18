@@ -121,7 +121,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 114
+  controlID: 80
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 18
+  controlID: 26
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -275,7 +275,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 115
+  controlID: 120
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -821,7 +821,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.1820048, y: 0.05543772, z: -0.010441056, w: 0.98178226}
     speed: 2
-    m_Value: {x: 0.1819862, y: 0.05543206, z: -0.01043999, w: 0.98168194}
+    m_Value: {x: -0.1820048, y: -0.05543772, z: 0.010441056, w: -0.98178226}
   m_Size:
     m_Target: 0.9082353
     speed: 2
@@ -890,18 +890,18 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: a2a6feffdea6feff14d1feff181effff5838ffff6038ffffb839ffffc039ffffac42ffff8c4bffff944bffffba4bffff6479ffffc47affffc87affff307cffff967effff76dcffff7edcffffd6ddffffdeddffffe2ddffffc0e5ffffa6f4ffff02f6ffffd0fafffffcfaffff76340200
+      m_ExpandedIDs: 0ccdfcffa0cefcff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: OVRPlayerController
-        m_OriginalName: OVRPlayerController
+        m_Name: base
+        m_OriginalName: base
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -88414
+        m_UserData: -212038
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -959,7 +959,8 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/1.Scenes
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -968,14 +969,14 @@ MonoBehaviour:
   m_StartGridSize: 16
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\UnityProjects\BombYG
+  m_LastProjectPath: C:\Users\jkjk0\Desktop\UnityGIt\BombYGCapstone
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: ffffff7f
     m_LastClickedID: 2147483647
-    m_ExpandedIDs: 00000000caa10000cca10000cea10000d0a10000d2a10000d4a10000d6a10000d8a10000daa10000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1003,21 +1004,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000caa10000cea10000d0a10000d2a10000d4a10000d6a10000d8a10000daa100003ca600003ea60000b2ad000022470100f8470100e45f0100e65f0100e85f0100
+    m_ExpandedIDs: ffffffffe0400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: OVRInputController2
-      m_OriginalName: OVRInputController2
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 156982
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 4
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
